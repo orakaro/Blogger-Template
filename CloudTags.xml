@@ -1,0 +1,25 @@
+<b:widget id='Label786' locked='false' title='Tags' type='Label'>
+<b:includable id='main'>
+<b:if cond='data:title'><h2><data:title/></h2></b:if>
+<div class='widget-content'>
+<script src='//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js' type='text/javascript'/>
+<div id='w2bFlashLabes'>New Flash Labels by <a href='http://www.way2blogging.org'>Way2Blogging</a></div>
+<script type='text/javascript'>
+var flashvars = {};
+flashvars.tcolor = &quot;0x4bb1b1&quot;;
+flashvars.hicolor = &quot;0x4bb1b1&quot;;
+flashvars.mode = &quot;tags&quot;;
+flashvars.distr = &quot;true&quot;;
+flashvars.tspeed = 100;
+flashvars.tagcloud = &quot;<tags><b:loop values='data:labels' var='label'><a expr:href='data:label.url' style='12'><data:label.name/></a></b:loop></tags>&quot;;
+var params = {};
+params.wmode = &quot;transparent&quot;;
+params.bgcolor = &quot;#FFFFFF&quot;;
+params.allowscriptaccess = &quot;always&quot;;
+var attributes = {};
+swfobject.embedSWF(&quot;http://widgets.way2blogging.org/blogger-widgets/way2blogging-tagcloud.swf&quot;, &quot;w2bFlashLabes&quot;, 250, 250, &quot;9.0.0&quot;, &quot;http://swfobject.googlecode.com/svn/trunk/swfobject/expressInstall.swf&quot;, flashvars, params, attributes );
+</script>
+<b:include name='quickedit'/>
+</div>
+</b:includable>
+</b:widget>
