@@ -794,6 +794,9 @@
       }
 
       @media screen and (max-width: 1490px) {
+      .fotlinkimp{
+      width: 1490px;
+      }
       .header-outer{
       padding-left:120px;
       }
@@ -807,6 +810,9 @@
       }
 
       @media screen and (max-width: 1510px) {
+      .fotlinkimp{
+      width: 1510px;
+      }
       .header-outer{
       padding-left:90px;
       }
@@ -819,6 +825,9 @@
       }
       }
       @media screen and (max-width: 1193px) {
+      .fotlinkimp{
+      width: 1193px;
+      }
       .header-outer{
       padding-left:50px;padding-right:0px;
       }
@@ -835,13 +844,10 @@
       }
       }
       @media screen and (max-width: 1143px) {
-
       body {
       overflow-x:visible;
       }
-
       }
-
 
 
       /* Comments----------------------------------------------- */
