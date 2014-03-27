@@ -794,9 +794,6 @@
       }
 
       @media screen and (max-width: 1490px) {
-      .fotlinkimp{
-      width: 1490px;
-      }
       .header-outer{
       padding-left:120px;
       }
@@ -810,9 +807,6 @@
       }
 
       @media screen and (max-width: 1510px) {
-      .fotlinkimp{
-      width: 1510px;
-      }
       .header-outer{
       padding-left:90px;
       }
@@ -825,19 +819,11 @@
       }
       }
       @media screen and (max-width: 1193px) {
-      .fotlinkimp{
-      width: 1193px;
-      }
       .header-outer{
       padding-left:50px;padding-right:0px;
       }
       #menunav{
       padding-left:1px;padding-right:0px;
-      }
-      #lower-wrapper {
-      margin-left:-10px;;
-      padding: 20px 0px 20px 0px;
-      width: 1100px;
       }
       body {
       overflow-x:hidden;
