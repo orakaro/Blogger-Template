@@ -5864,7 +5864,7 @@ jQuery('.post-animate').addClass("hidden").viewportChecker({
 jQuery(document).ready(function() {
 
 function show_pic(){
-	jQuery("#mastheadbwrap").backstretch("http://www.rainbowstream.org/images/allscreen_blur.png");
+	jQuery("#mastheadbwrap").backstretch("http://scontent-a.cdninstagram.com/hphotos-xpa1/t51.2885-15/10369423_1406614049622985_1762839587_n.jpg");
 }
 show_pic();
 
