@@ -400,7 +400,7 @@ textarea {
 5.1 Links
 --------------------------------------------------------------*/
 a {
-	color: #539f10;
+	color: #70aecd;
 	text-decoration: none;
 	-webkit-transition: all 500ms linear;
 -moz-transition: all 500ms linear;
@@ -409,7 +409,7 @@ a {
 transition: all 500ms linear;
 }
 a:visited {
-	color: #539f10;
+	color: #70aecd;
 }
 a:hover,
 a:focus,
@@ -4181,7 +4181,7 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 }
 
 .pushy a:hover{
-    background: #539F10;
+    background: #70aecd;
     color: #FFF;
 }
 
@@ -4298,6 +4298,7 @@ html,body{height:100%;}
 }
 
 #contentbwrap{
+  padding: 100px;
 	background: #F0F4F9;
 }
 
@@ -4306,12 +4307,12 @@ html,body{height:100%;}
 --------------------------------------------------------------*/
 
 #mastheadbwrap{
-	background:#539F10;
+	background:#70aecd;
 	overflow-x: hidden;
 }
 
 .backstretch{
-	background:#539F10;
+	background:#70aecd;
 }
 
 .overlay-gridbwrap{
@@ -4472,7 +4473,7 @@ article.post{
 .entry-header h1.entry-title{
 	font-size: 48px;
 	font-weight: bold;
-	color: #539F10;
+	color: #70aecd;
 	line-height: 120%;
 	margin: 0px 0px;
 }
@@ -4482,7 +4483,7 @@ article.post{
 }
 
 .entry-header h1.entry-title a:hover{
-	color: #539F10;
+	color: #70aecd;
 }
 
 .entry-header .entry-metabwrap{
@@ -4607,7 +4608,7 @@ footer.site-footerbwrap{
 }
 
 .footer-widgetsbwrap{
-	background: #539F10;
+	background: #70aecd;
 	padding: 50px 0px;
 }
 
@@ -4806,9 +4807,9 @@ function createSummaryAndThumb(pID){
 </script>
 
 <style type='text/css'>
-#mastheadbwrap,.backstretch,.reply a,.pushy a:hover,h2.comments-title,.footer-widgetsbwrap,.foot-button{background:#63b47a!important;}
+#mastheadbwrap,.backstretch,.reply a,.pushy a:hover,h2.comments-title,.footer-widgetsbwrap,.foot-button{background:#70aecd!important;}
 footer.entry-footerbpost a,footer.entry-footerbpost a:visited,.site-infobwrap a,.site-infobwrap a:visited,#respond a, #respond a:visited,.comment-navigation a, .comment-navigation a:visited,
-.entry-content a,.entry-content a:visited,.entry-header h1.entry-title a:hover,.pagination span,.entry-header h1.entry-title {color:#63b47a!important;}
+.entry-content a,.entry-content a:visited,.entry-header h1.entry-title a:hover,.pagination span,.entry-header h1.entry-title {color:#70aecd!important;}
 </style>
 
 </head>
