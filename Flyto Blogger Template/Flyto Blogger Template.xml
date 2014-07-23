@@ -4298,7 +4298,7 @@ html,body{height:100%;}
 }
 
 #contentbwrap{
-	background: #fff;
+	background: #F0F4F9;
 }
 
 /*--------------------------------------------------------------
@@ -4382,11 +4382,11 @@ html,body{height:100%;}
 	margin: 0px 0px;
 	font-size: 20px;
 	outline: none;
-	color: #eee;
+	color: #F0F4F9;
 }
 
 .widesearchbwrap .search-field:focus{
-	color: #eee;
+	color: #F0F4F9;
 }
 
 /* Logo */
@@ -4724,7 +4724,7 @@ h2.date-header {
   float:left;
   margin:0px 10px 5px 5px;
   padding:4px;
-  border:1px solid #eee;
+  border:1px solid #F0F4F9;
   width:200px;
   height:150px;
 }
@@ -4922,9 +4922,6 @@ footer.entry-footerbpost a,footer.entry-footerbpost a:visited,.site-infobwrap a,
 
 </b:if>
 
-<br></br>
-<br></br>
-<br></br>
 
 <div class='site-contentbwrap' id='contentbwrap'>
 <div class='content-areabwrap' id='primarybwrap'>
